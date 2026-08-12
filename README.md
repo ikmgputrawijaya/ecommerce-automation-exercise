@@ -1,1 +1,1 @@
-# automation-testing-demoQA
+# ecommerce-automation-exercise
